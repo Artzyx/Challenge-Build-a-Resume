@@ -1,0 +1,57 @@
+header {
+	background-color: #f0f0f5;
+	text-align: center;
+}
+h1 {
+	font-family: "arial black", "arial bold", sans-serif;
+	font-size: 50px;
+	line-height: 40px;
+}
+h2 {
+	font-family: "arial black", "arial bold", sans-serif;
+	font-size: 25px;
+	line-height: 1px;
+}
+.hline {
+	color: #e0e0eb;
+}
+.aline {
+	color: #e0e0eb; 
+	width: 170px; 
+	margin-left: 0px;
+}
+.mline {
+	color: #e0e0eb;
+}
+img	{
+	float: right;
+}
+div {
+	padding-left: 250px;
+	padding-right: 250px;
+}
+h3 {
+	font-family: "arial black", "arial bold", sans-serif;
+    background-color: #f0f0f5;
+    display: inline;
+    text-align: center;
+    width: 10%;
+
+}
+h4 {
+	font-family: sans-serif;
+}
+h5 {
+	font-family: sans-serif;
+}
+p {
+	display: block;
+	font-family: sans-serif;
+}
+.highl {
+	background-color: #f0f0f5;
+	padding-left: 10px;
+}
+ul {
+	font-family: sans-serif;
+}
